@@ -17,6 +17,3 @@ while len(int_list) < 10:
 
 print("final: ", int_list)
 
-print("____________________")
-print("name: Longares, John Hynes C.")
-print("student no.: 20211121312")
