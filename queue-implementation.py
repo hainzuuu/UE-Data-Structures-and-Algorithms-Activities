@@ -52,7 +52,3 @@ while number != 0:
     q1.showAll(1)
     q2.showAll(2)
     q3.showAll(3)
-
-print("____________________")
-print("name: Longares, John Hynes C.")
-print("student no.: 20211121312")
