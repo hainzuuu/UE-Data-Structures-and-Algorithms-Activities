@@ -70,8 +70,3 @@ while number != 6:
 
     else:
         print("Enter 1-6 only")
-
-
-print("__________________________")
-print("name: Longares, John Hynes C.")
-print("student no.: 20211121312")
