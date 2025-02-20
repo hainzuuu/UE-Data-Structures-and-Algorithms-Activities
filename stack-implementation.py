@@ -71,7 +71,3 @@ while number != 0:
     s2.show("2")
     s3.show("3")
     print("______________")
-
-print("____________________")
-print("name: Longares, John Hynes C.")
-print("student no.: 20211121312")
