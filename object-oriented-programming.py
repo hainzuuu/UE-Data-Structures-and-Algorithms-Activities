@@ -47,6 +47,3 @@ runner2.run(20)
 runner2.run(30)
 runner2.display()
 
-print("___________________")
-print("name: Longares, John Hynes C.")
-print("student no.: 20211121312")
