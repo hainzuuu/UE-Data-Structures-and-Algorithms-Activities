@@ -5,7 +5,3 @@ for x in range(0, 5):
 
 print("alphabetical: ", sorted(charList))
 print("reversed: ", charList[::-1])
-
-print("____________________________")
-print("name: John Hynes C. Longares")
-print("student number: 20211121312")
